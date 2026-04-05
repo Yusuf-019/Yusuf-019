@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Student (9th grade)
+- 🎓 Student (10th grade)
 - 💻 Currently learning **C++**
 - 🚀 Goal: Become a strong developer
 - 🧩 I like solving problems and building projects
